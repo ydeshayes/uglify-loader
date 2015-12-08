@@ -22,6 +22,6 @@
   "homepage": "https://github.com/bestander/uglify-loader",
   "dependencies": {
     "loader-utils": "^0.2.7",
-    "uglify-js": "^2.4.16"
+    "uglify-js": "git+https://github.com/mishoo/UglifyJS2.git#af22b9c657494748e3d643a7b3a9fa74467a2c52"
   }
 }
